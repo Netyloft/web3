@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70f78bb2-9fe3-488f-b74b-48982ed3a9b4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" xdebug_force_break_when_no_path_mapping="false" xdebug_force_break_when_outside_project="false">
+    <xdebug_debug_ports port="9000" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="25680100-97be-47a0-a940-89641faea511" name="localhost" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="2Ef3nanz1awWFQesl59Avk0QSYk" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/OSPanel/domains/localhost/4/statistics.php&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.webide.settings.project.settings.php.debug&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\localhost\1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\localhost\4\scripts" />
+      <recent name="C:\OSPanel\domains\localhost\4\pages" />
+      <recent name="C:\OSPanel\domains\localhost\4\banners" />
+      <recent name="C:\OSPanel\domains\localhost\4" />
+      <recent name="C:\OSPanel\domains\localhost\2\html" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.statistics.php">
+    <configuration name="statistics.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/4/statistics.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="Xdebug" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" filter_connections="FILTER" server_name="localhost" session_id="PHPSTORM">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Remote Debug.Xdebug" />
+      <item itemvalue="PHP Script.statistics.php" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70f78bb2-9fe3-488f-b74b-48982ed3a9b4" name="Changes" comment="" />
+      <created>1662972979132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662972979132</updated>
+      <workItem from="1662972980336" duration="220000" />
+      <workItem from="1662973208723" duration="61000" />
+      <workItem from="1662975832852" duration="3997000" />
+      <workItem from="1662988391056" duration="5466000" />
+      <workItem from="1663037300973" duration="931000" />
+      <workItem from="1663253602827" duration="4272000" />
+      <workItem from="1663298006093" duration="1612000" />
+      <workItem from="1663491360952" duration="6069000" />
+      <workItem from="1664164092062" duration="13636000" />
+      <workItem from="1664246000407" duration="7000" />
+      <workItem from="1664246058397" duration="35000" />
+      <workItem from="1664246141592" duration="2000" />
+      <workItem from="1664246168343" duration="3333000" />
+      <workItem from="1664256402936" duration="1714000" />
+      <workItem from="1664258668910" duration="4255000" />
+      <workItem from="1664291368018" duration="2106000" />
+      <workItem from="1664338409083" duration="3414000" />
+      <workItem from="1664421652847" duration="1679000" />
+      <workItem from="1664937555965" duration="1699000" />
+      <workItem from="1664951129464" duration="3382000" />
+      <workItem from="1665056960536" duration="48000" />
+      <workItem from="1665122206114" duration="4383000" />
+      <workItem from="1665289213658" duration="18395000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/4/count/database/mod.php</url>
+          <line>9</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/4/banners/banner_redirect.php</url>
+          <line>7</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -44,9 +44,13 @@ function get_from_text($year, $connection)
         return;
     }
 
-    $row = $result -> fetch_assoc();
+    $row = $result -> fetch_all();
 
-    show($row["id"], $row["title"], $row["body"]);
+    foreach ($row as $key_click => $item){
+        show($item[0], $item[1], $item[2]);
+    }
+
+
 }
 
 function show($id, $title, $body){
